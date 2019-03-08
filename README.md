@@ -1,5 +1,5 @@
 # keccak224
-A practical preimage attack on 3-round Keccak-224
+A practical preimage attack on 3-round Keccak-224.
 
 The file 'verify.c' provides a verification of the found preimages.
 

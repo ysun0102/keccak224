@@ -1,0 +1,449 @@
+2064
+read middle state
+read hash value
+finish reading file!
+finish copying device memory!
+finish allocate device memory!
+finish cpu computing!
+enum num : 16
+block num : 32
+thread num : 256
+begin solve linear system!
+val : 1108101562368~1108638433279 ,find 67116515 solutions, none is correct...
+time:4803932.500 ms
+---------------------------------------
+2065
+read middle state
+read hash value
+finish reading file!
+finish copying device memory!
+finish allocate device memory!
+finish cpu computing!
+enum num : 16
+block num : 32
+thread num : 256
+begin solve linear system!
+val : 1108638433280~1109175304191 ,find 67111019 solutions, none is correct...
+time:4866010.000 ms
+---------------------------------------
+2066
+read middle state
+read hash value
+finish reading file!
+finish copying device memory!
+finish allocate device memory!
+finish cpu computing!
+enum num : 16
+block num : 32
+thread num : 256
+begin solve linear system!
+val : 1109175304192~1109712175103 ,find 67110729 solutions, none is correct...
+time:4804148.000 ms
+---------------------------------------
+2067
+read middle state
+read hash value
+finish reading file!
+finish copying device memory!
+finish allocate device memory!
+finish cpu computing!
+enum num : 16
+block num : 32
+thread num : 256
+begin solve linear system!
+val : 1109712175104~1110249046015 ,find 67091808 solutions, none is correct...
+time:4865196.000 ms
+---------------------------------------
+2068
+read middle state
+read hash value
+finish reading file!
+finish copying device memory!
+finish allocate device memory!
+finish cpu computing!
+enum num : 16
+block num : 32
+thread num : 256
+begin solve linear system!
+val : 1110249046016~1110785916927 ,find 67108652 solutions, none is correct...
+time:4807270.500 ms
+---------------------------------------
+2069
+read middle state
+read hash value
+finish reading file!
+finish copying device memory!
+finish allocate device memory!
+finish cpu computing!
+enum num : 16
+block num : 32
+thread num : 256
+begin solve linear system!
+val : 1110785916928~1111322787839 ,find 67109108 solutions, none is correct...
+time:4827244.500 ms
+---------------------------------------
+2070
+read middle state
+read hash value
+finish reading file!
+finish copying device memory!
+finish allocate device memory!
+finish cpu computing!
+enum num : 16
+block num : 32
+thread num : 256
+begin solve linear system!
+val : 1111322787840~1111859658751 ,find 67109244 solutions, none is correct...
+time:4824559.500 ms
+---------------------------------------
+2071
+read middle state
+read hash value
+finish reading file!
+finish copying device memory!
+finish allocate device memory!
+finish cpu computing!
+enum num : 16
+block num : 32
+thread num : 256
+begin solve linear system!
+val : 1111859658752~1112396529663 ,find 67099036 solutions, none is correct...
+time:4803732.500 ms
+---------------------------------------
+2072
+read middle state
+read hash value
+finish reading file!
+finish copying device memory!
+finish allocate device memory!
+finish cpu computing!
+enum num : 16
+block num : 32
+thread num : 256
+begin solve linear system!
+val : 1112396529664~1112933400575 ,find 67111068 solutions, none is correct...
+time:4823928.500 ms
+---------------------------------------
+2073
+read middle state
+read hash value
+finish reading file!
+finish copying device memory!
+finish allocate device memory!
+finish cpu computing!
+enum num : 16
+block num : 32
+thread num : 256
+begin solve linear system!
+val : 1112933400576~1113470271487 ,find 67097442 solutions, none is correct...
+time:4810071.000 ms
+---------------------------------------
+2074
+read middle state
+read hash value
+finish reading file!
+finish copying device memory!
+finish allocate device memory!
+finish cpu computing!
+enum num : 16
+block num : 32
+thread num : 256
+begin solve linear system!
+val : 1113470271488~1114007142399 ,find 67118488 solutions, none is correct...
+time:4824108.000 ms
+---------------------------------------
+2075
+read middle state
+read hash value
+finish reading file!
+finish copying device memory!
+finish allocate device memory!
+finish cpu computing!
+enum num : 16
+block num : 32
+thread num : 256
+begin solve linear system!
+val : 1114007142400~1114544013311 ,find 67098806 solutions, none is correct...
+time:4807524.000 ms
+---------------------------------------
+2076
+read middle state
+read hash value
+finish reading file!
+finish copying device memory!
+finish allocate device memory!
+finish cpu computing!
+enum num : 16
+block num : 32
+thread num : 256
+begin solve linear system!
+val : 1114544013312~1115080884223 ,find 67117998 solutions, none is correct...
+time:4807693.500 ms
+---------------------------------------
+2077
+read middle state
+read hash value
+finish reading file!
+finish copying device memory!
+finish allocate device memory!
+finish cpu computing!
+enum num : 16
+block num : 32
+thread num : 256
+begin solve linear system!
+val : 1115080884224~1115617755135 ,find 67111090 solutions, none is correct...
+time:4826745.000 ms
+---------------------------------------
+2078
+read middle state
+read hash value
+finish reading file!
+finish copying device memory!
+finish allocate device memory!
+finish cpu computing!
+enum num : 16
+block num : 32
+thread num : 256
+begin solve linear system!
+val : 1115617755136~1116154626047 ,find 67112264 solutions, none is correct...
+time:4822936.000 ms
+---------------------------------------
+2079
+read middle state
+read hash value
+finish reading file!
+finish copying device memory!
+finish allocate device memory!
+finish cpu computing!
+enum num : 16
+block num : 32
+thread num : 256
+begin solve linear system!
+val : 1116154626048~1116691496959 ,find 67120891 solutions, none is correct...
+time:4824974.000 ms
+---------------------------------------
+2080
+read middle state
+read hash value
+finish reading file!
+finish copying device memory!
+finish allocate device memory!
+finish cpu computing!
+enum num : 16
+block num : 32
+thread num : 256
+begin solve linear system!
+val : 1116691496960~1117228367871 ,find 67125289 solutions, none is correct...
+time:4814840.000 ms
+---------------------------------------
+2081
+read middle state
+read hash value
+finish reading file!
+finish copying device memory!
+finish allocate device memory!
+finish cpu computing!
+enum num : 16
+block num : 32
+thread num : 256
+begin solve linear system!
+val : 1117228367872~1117765238783 ,find 67108373 solutions, none is correct...
+time:4823588.000 ms
+---------------------------------------
+2082
+read middle state
+read hash value
+finish reading file!
+finish copying device memory!
+finish allocate device memory!
+finish cpu computing!
+enum num : 16
+block num : 32
+thread num : 256
+begin solve linear system!
+val : 1117765238784~1118302109695 ,find 67115092 solutions, none is correct...
+time:4821871.500 ms
+---------------------------------------
+2083
+read middle state
+read hash value
+finish reading file!
+finish copying device memory!
+finish allocate device memory!
+finish cpu computing!
+enum num : 16
+block num : 32
+thread num : 256
+begin solve linear system!
+val : 1118302109696~1118838980607 ,find 67097395 solutions, none is correct...
+time:4804724.000 ms
+---------------------------------------
+2084
+read middle state
+read hash value
+finish reading file!
+finish copying device memory!
+finish allocate device memory!
+finish cpu computing!
+enum num : 16
+block num : 32
+thread num : 256
+begin solve linear system!
+val : 1118838980608~1119375851519 ,find 67125575 solutions, none is correct...
+time:4815525.500 ms
+---------------------------------------
+2085
+read middle state
+read hash value
+finish reading file!
+finish copying device memory!
+finish allocate device memory!
+finish cpu computing!
+enum num : 16
+block num : 32
+thread num : 256
+begin solve linear system!
+val : 1119375851520~1119912722431 ,find 67109647 solutions, none is correct...
+time:4808883.500 ms
+---------------------------------------
+2086
+read middle state
+read hash value
+finish reading file!
+finish copying device memory!
+finish allocate device memory!
+finish cpu computing!
+enum num : 16
+block num : 32
+thread num : 256
+begin solve linear system!
+val : 1119912722432~1120449593343 ,find 67100921 solutions, none is correct...
+time:4823039.500 ms
+---------------------------------------
+2087
+read middle state
+read hash value
+finish reading file!
+finish copying device memory!
+finish allocate device memory!
+finish cpu computing!
+enum num : 16
+block num : 32
+thread num : 256
+begin solve linear system!
+val : 1120449593344~1120986464255 ,find 67111552 solutions, none is correct...
+time:4823610.000 ms
+---------------------------------------
+2088
+read middle state
+read hash value
+finish reading file!
+finish copying device memory!
+finish allocate device memory!
+finish cpu computing!
+enum num : 16
+block num : 32
+thread num : 256
+begin solve linear system!
+val : 1120986464256~1121523335167 ,find 67101513 solutions, none is correct...
+time:4824554.500 ms
+---------------------------------------
+2089
+read middle state
+read hash value
+finish reading file!
+finish copying device memory!
+finish allocate device memory!
+finish cpu computing!
+enum num : 16
+block num : 32
+thread num : 256
+begin solve linear system!
+val : 1121523335168~1122060206079 ,find 67110759 solutions, none is correct...
+time:4824558.000 ms
+---------------------------------------
+2090
+read middle state
+read hash value
+finish reading file!
+finish copying device memory!
+finish allocate device memory!
+finish cpu computing!
+enum num : 16
+block num : 32
+thread num : 256
+begin solve linear system!
+val : 1122060206080~1122597076991 ,find 67103554 solutions, none is correct...
+time:4814719.500 ms
+---------------------------------------
+2091
+read middle state
+read hash value
+finish reading file!
+finish copying device memory!
+finish allocate device memory!
+finish cpu computing!
+enum num : 16
+block num : 32
+thread num : 256
+begin solve linear system!
+val : 1122597076992~1123133947903 ,find 67105828 solutions, none is correct...
+time:4823404.500 ms
+---------------------------------------
+2092
+read middle state
+read hash value
+finish reading file!
+finish copying device memory!
+finish allocate device memory!
+finish cpu computing!
+enum num : 16
+block num : 32
+thread num : 256
+begin solve linear system!
+val : 1123133947904~1123670818815 ,find 67112665 solutions, none is correct...
+time:4816340.000 ms
+---------------------------------------
+2093
+read middle state
+read hash value
+finish reading file!
+finish copying device memory!
+finish allocate device memory!
+finish cpu computing!
+enum num : 16
+block num : 32
+thread num : 256
+begin solve linear system!
+val : 1123670818816~1124207689727 ,find 67097662 solutions, none is correct...
+time:4809554.500 ms
+---------------------------------------
+2094
+read middle state
+read hash value
+finish reading file!
+finish copying device memory!
+finish allocate device memory!
+finish cpu computing!
+enum num : 16
+block num : 32
+thread num : 256
+begin solve linear system!
+val : 1124207689728~1124744560639 ,find 67118218 solutions, none is correct...
+time:4821969.000 ms
+---------------------------------------
+2095
+read middle state
+read hash value
+finish reading file!
+finish copying device memory!
+finish allocate device memory!
+finish cpu computing!
+enum num : 16
+block num : 32
+thread num : 256
+begin solve linear system!
+val : 1124744560640~1125281431551 ,find 67123423 solutions, none is correct...
+time:4799402.000 ms
+---------------------------------------
+2096
